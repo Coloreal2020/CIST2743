@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Backround
+    uniqueID: 3817760191
+    locked: 0
+  - name: Propos
+    uniqueID: 1801132353
+    locked: 0
+  - name: Platform
+    uniqueID: 2483704111
+    locked: 0
+  - name: Player
+    uniqueID: 2168542221
+    locked: 0
+  - name: ForeGruond
+    uniqueID: 1813978709
+    locked: 0
